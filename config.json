@@ -1,0 +1,9 @@
+{
+    "TOKEN": "",
+    "MONGO_DB": "",
+    "cooldown": true,
+    "owner": [""],
+    "admin": [""],
+    "np": [""],
+    "invite": "https://discord.com/oauth2/authorize?client_id="
+}
